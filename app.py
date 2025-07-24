@@ -13,8 +13,8 @@ speed = 5
 
 # Генерация карты (здания, дороги)
 buildings = [
-    pygame.Rect(100, 100, 200, 150),
-    pygame.Rect(400, 200, 180, 120),
+    pygame.Rect(100, 100, 200, 15),
+    pygame.Rect(400, 200, 180, 12),
     pygame.Rect(200, 400, 220, 160)
 ]
 
